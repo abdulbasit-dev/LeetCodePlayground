@@ -1,7 +1,3 @@
-Here’s a **proper `README.md`** file that clearly explains your **LeetCode Playground** project:
-
----
-
 ### **📌 LeetCode Playground**
 A structured Java project to solve **LeetCode problems**, categorized by difficulty (**Easy, Medium, Hard**). This project serves as a **coding playground** to test, debug, and organize solutions efficiently.
 
